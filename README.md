@@ -15,7 +15,7 @@
 | **Written On** | May 25, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/only-you-can-feel/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Only You Can Feel](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/only-you-can-feel/) |
+| **Get License** | [Music Rights & Licensing for Only You Can Feel](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/only-you-can-feel/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Caught up in the shadows of this candlelit room
+> There's a slow-burning fire when I'm looking at you
+> Got my heart beating heavy like a drum in the dark
+> Let me pull you in closer, let me show you the spark
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
