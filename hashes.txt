@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Only You Can Feel
+
+This log tracks the cryptographic history and versioning for the song **Only You Can Feel** (only-you-can-feel).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-26T06:17:09.450619 | `v1` | `0dab8892806edf8cd432f9c19f44a6fb72e166a5aa6fc5fa6fb33c9b7c6abeca` | `1b86ae50c9b6b18550843dcd8da401cb7c7725a87eb5e52027bb8e02695508a9` | `2026-05-26_only-you-can-feel-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
